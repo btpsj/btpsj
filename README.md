@@ -2,9 +2,11 @@ All opinions are my own.
 
 Pronouns: He/Him/His
 
-I am currently working at Lawrence Berkeley National Laboratory and the Department of Energy Joint Genome Institute. I work on the QAQC team, developing tools and running analyses on genomes sequenced at the JGI as part of User Proposals and validating them for sequencing quality and contamination.
+I am currently working at Lawrence Berkeley National Laboratory (LBNL) and the Department of Energy Joint Genome Institute (JGI). I work on the QAQC team, developing tools and running analyses on genomes sequenced at the JGI as part of User Proposals and validating them for sequencing quality and contamination.
 
-In my spare time, I enjoy working on open-source projects involved with bioinformatics, sensors, and embedded systems, particularly with the Rust programming language. 
+Prior to this, I did a postdoc at LBNL in the Biological Systems and Egnineering Division, focused on evaluating portable spectroscopy devices for diagnostics. I completed my Ph. D. in Biomolecular Engineering and Bioinformatics in 2023 at the University of California, Santa Cruz, under Dr. Angela Brooks, focusing on developing sequencing methods for mapping the positions of nucleosomes and understanding chromatin biology.
+
+In my spare time, I enjoy working on open-source projects involved with bioinformatics, sensors, and embedded systems, particularly with the Rust programming language.
 
 <!--
 **btpsj/btpsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

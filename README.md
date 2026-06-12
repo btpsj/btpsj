@@ -1,4 +1,10 @@
-## Hi there 👋
+All opinions are my own.
+
+Pronouns: He/Him/His
+
+I am currently working at Lawrence Berkeley National Laboratory and the Department of Energy Joint Genome Institute. I work on the QAQC team, developing tools and running analyses on genomes sequenced at the JGI as part of User Proposals and validating them for sequencing quality and contamination.
+
+In my spare time, I enjoy working on open-source projects involved with bioinformatics, sensors, and embedded systems, particularly with the Rust programming language. 
 
 <!--
 **btpsj/btpsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
